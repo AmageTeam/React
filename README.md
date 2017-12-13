@@ -6,6 +6,7 @@ React Environment setup
 2.Install Global Packages
    npm install –g babel
    npm install –g babel-cli
+..........................................................................................................................................
 3.Add Dependencies and Plugins
     npm install webpack  --save-dev
     npm install webpack-dev-server  -g
@@ -15,6 +16,7 @@ React Environment setup
     npm install babel-loader  --save-dev
     npm install babel-preset-react  --save-dev
     npm install babel-preset-es2015 --save-dev
+..........................................................................................................................................
 4.Create the Files
     index.html
     App.jsx
@@ -24,6 +26,8 @@ React Environment setup
     Webpack.config.js
 6.Running the Server
     npm start
+  
+  ........................................................................................................................................
 
 
 
